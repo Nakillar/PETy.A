@@ -1,0 +1,20 @@
+.topBaner{
+  background: url(imges/slaid1.png);
+  background-repeat: no-repeat;
+min-height: 100vh;
+min-width: 100vw;
+background-size: cover;
+}
+.Aller1 ul li:hover{
+	border-bottom-color:#11749e;
+	border-bottom:4px solid;
+    padding-bottom:33px
+}
+.Aller1 ul li{
+	padding-right:24px;
+	padding-left:20px;
+}
+.Aller1 ul {
+    display: flex;
+    padding: 56px 54px 0px 470px;
+}
